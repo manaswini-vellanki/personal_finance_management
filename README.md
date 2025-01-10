@@ -22,10 +22,6 @@ Project Structure
 ├── budget.py      # Manages budgets and budget checks
 ├── finance.db     # SQLite database (created automatically when the app runs)
 
-Installation Clone the repository:
-
-bash Copy code git clone https://github.com/yesh6289/Personal-Finance-Tracking-App.git cd personal-finance-app Install dependencies:
-
 Ensure you have Python 3.7 or later installed. Install bcrypt for secure password hashing: bash Copy code
 
 pip install bcrypt
